@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+.vs
+debug
+MazeMaker/Debug
+
+*.ipch
+MazeMaker/SDL/
+MazeMaker/SDL2_ttf/
+MazeMaker/SDL2_image/
+*.rc
+*.aps
